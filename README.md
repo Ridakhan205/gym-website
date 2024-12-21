@@ -2,8 +2,13 @@
 
 This is a simple gym website built to showcase gym services, memberships, and classes.
 
-## Features
-- Basic and premium membership plans.
+## purpose
+The purpose of this project is to:
+
+- Automate gym operations such as membership management, class scheduling, and fee payments.
+- Provide an easy-to-use interface for gym staff to track member progress, payments, and bookings.
+- Offer members a smooth experience to manage their memberships, book classes, and track their progress.
+
 
 ## Installation
 
